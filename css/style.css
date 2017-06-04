@@ -42,14 +42,17 @@
 /* gradient gejowska tecza*/
 #tecza {
     background: linear-gradient(to right, red, orange, yellow, lime, blue, purple);
-    width: 300px;
+    width: 500px;
     height: 50px;
     margin: 50px;
     
     
 }
 
-
+#park {
+    width: 1200px;
+    height: 500px;
+}
 
 
 
